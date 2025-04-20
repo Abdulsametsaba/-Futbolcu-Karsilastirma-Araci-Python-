@@ -1,1 +1,1 @@
-# -Futbolcu-Kar-la-t-rma-Arac-Python-
+# -Futbolcu-Karsilastirma-Araci-Python-
